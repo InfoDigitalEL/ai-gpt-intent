@@ -1,5 +1,5 @@
 {
-  "name": "@infozap/node-red-contrib-ai-chatgpt",
+  "name": "@infozap/node-red-contrib-ai-gpt-intent",
   "version": "1.0.0",
   "description": "Uma coleção de nós para elevar as interações de automação de um usuário",
   "scripts": {
