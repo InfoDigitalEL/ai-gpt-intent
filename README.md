@@ -1,4 +1,4 @@
-## AI Intent
+## Intents A.I - OPENAI
 
 Esta é uma coleção de nós para ajudar a aprimorar as automações existentes a serem utilizadas por chatbots e aproveitar as vantagens de LLMs como GPT. Existem 4 nós nesta coleção:
 
