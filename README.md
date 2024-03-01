@@ -34,7 +34,7 @@ Fornece funções que o Open AI pode usar para lidar com solicitações exclusiv
 
 Sanitiza a resposta do OpenAI. Isso fornece uma saída consistente e fácil de ler, mas também passará a saída original do OpenAI em uma propriedade separada chamada `originalResponse`.
 
-### How to use
+### Como usar
 
 > NOTA: Você precisa ter um token válido da OpenAI para que isso funcione. Visite [OpenAI](https://platform.openai.com/).
 
