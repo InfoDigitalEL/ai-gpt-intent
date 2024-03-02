@@ -1,6 +1,6 @@
 {
   "name": "@infozap/node-red-contrib-ai-gpt-intent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uma coleção de nós para elevar as interações de automação de um usuário",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
